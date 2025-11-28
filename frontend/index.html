@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>T.C. Identity Number Verification</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<div class="container">
+  <h1>T.C. Identity Verification</h1>
+
+  <div class="mode-toggle">
+    <button id="btnOffline" class="active">Offline</button>
+    <button id="btnOnline">Online</button>
+  </div>
+
+  <label>T.C. Identity Number</label>
+  <input type="text" id="tckn" maxlength="11" placeholder="Enter 11-digit ID number">
+
+  <div id="onlineFields" style="display:none;">
+    <label>First Name</label>
+    <input type="text" id="firstName">
+
+    <label>Last Name</label>
+    <input type="text" id="lastName">
+
+    <label>Birth Year</label>
+    <input type="text" id="birthYear" maxlength="4">
+  </div>
+
+  <button id="btnVerify">Verify</button>
+
+  <div id="resultBox" class="result"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
