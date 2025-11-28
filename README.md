@@ -74,12 +74,12 @@ The frontend is located in:
 ```
 You can deploy it using GitHub Pages:
 
->Go to repository → Settings
->Pages
->Set the source to /frontend folder
->Done
+- Go to repository → Settings
+- Pages
+- Set the source to `/frontend` folder
+- Done
 
-The frontend communicates with the backend using the API_URL defined in script.js.
+The frontend communicates with the backend using the `API_URL` defined in `script.js`.
 
 ## 📄 License
 This project is licensed under the MIT License, allowing commercial and personal use.
